@@ -2,6 +2,7 @@ import ptbot
 import os
 from dotenv import load_dotenv
 from pytimeparse import parse
+from decouple import config
 
 
 load_dotenv()
